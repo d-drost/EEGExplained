@@ -1,0 +1,9 @@
+jupyterlab
+mne>=1.8.0
+mne-icalabel>=0.7.0
+pillow>=10.4.0
+scipy>=1.0.0
+numpy>=2.0.0
+matplotlib
+ipywidgets
+voila
