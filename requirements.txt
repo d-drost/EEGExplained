@@ -4,6 +4,8 @@ mne-icalabel>=0.7.0
 pillow>=10.4.0
 scipy>=1.0.0
 numpy>=2.0.0
+ipympl==0.9.4
+nbconvert==7.2.1
 matplotlib
 ipywidgets
 voila
