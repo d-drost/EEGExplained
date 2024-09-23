@@ -4,15 +4,25 @@ This course teaches you the fundamentals for understanding eeg data and working 
 
 
 
+
+
 # Install
 
 To install for the first time, execute the following commands:
 
+## For MacOs or Linux
 ```
 chmod u+x install.sh
 chmod u+x start.sh
 ./install.sh
 ```
+
+## For Windows
+
+```
+install.bat
+```
+
 After some time, a browser should open showing a loading bar:
 
 ![](resources/loading.png)
@@ -28,12 +38,20 @@ Start learning about EEG!
 
 If you want to open the course from the second time on, you don't have to install everything again. Simply run: 
 
+## MacOs & Linux
 ```
 ./start.sh
+```
+## Windows
+```
+start.bat
 ```
 
 A browser window should pop up. If it does not, go to `localhost:8866/` in your favorite browser. 
 You have to wait for the loading, then you should see the start screen. 
+
+
+
 
 ## Manual installation (for experts)
 
