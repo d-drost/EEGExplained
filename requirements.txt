@@ -8,4 +8,4 @@ ipympl==0.9.4
 nbconvert==7.2.1
 matplotlib
 ipywidgets
-voila
+voila==0.5.1
