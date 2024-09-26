@@ -7,5 +7,5 @@ numpy>=2.0.0
 ipympl==0.9.4
 nbconvert==7.2.1
 matplotlib
-ipywidgets
-voila==0.5.1
+ipywidgets==8.1.5
+voila==0.4.5
